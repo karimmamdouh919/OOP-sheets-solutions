@@ -1,0 +1,9 @@
+﻿  Q2.cpp
+C:\Users\ayya_\OneDrive\Desktop\Sheet-4\Sheet-4\Q2.cpp(29,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Q3.cpp
+  Q4.cpp
+  Generating Code...
+Q2.obj : error LNK2005: main already defined in Q1.obj
+Q3.obj : error LNK2005: main already defined in Q1.obj
+Q4.obj : error LNK2005: main already defined in Q1.obj
+C:\Users\ayya_\OneDrive\Desktop\Sheet-4\x64\Debug\Sheet-4.exe : fatal error LNK1169: one or more multiply defined symbols found
