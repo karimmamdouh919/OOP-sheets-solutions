@@ -1,0 +1,4 @@
+﻿  Classes.cpp
+C:\Users\ayya_\OneDrive\Desktop\Sheet 2\Sheet 2\Classes.cpp(43,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ayya_\OneDrive\Desktop\Sheet 2\Sheet 2\Classes.cpp(65,12): error C2440: 'initializing': cannot convert from 'complex' to 'complex'
+C:\Users\ayya_\OneDrive\Desktop\Sheet 2\Sheet 2\Classes.cpp(65,12): message : Cannot copy construct class 'complex' due to ambiguous copy constructors or no available copy constructor

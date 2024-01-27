@@ -1,0 +1,17 @@
+﻿  Q1.cpp
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(103,2): error C2059: syntax error: ''symbol''
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(103,23): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(115,17): error C2059: syntax error: ''symbol''
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(115,7): error C2805: binary 'operator >' has too few parameters
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(115,25): error C2333: 'Data::operator >': error in function declaration; skipping function body
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(124,14): error C3646: 'compare': unknown override specifier
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(124,32): error C2096: 'data': A data member cannot be initialized with a parenthesized initializer
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(124,9): error C2433: 'data': 'friend' not permitted on data declarations
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(124,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(124,32): error C2852: 'data': only data members can be initialized within a class
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(127,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(127,1): error C2086: 'int data': redefinition
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(124,9): message : see declaration of 'data'
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(127,6): error C2146: syntax error: missing ';' before identifier 'compare'
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(127,30): error C2143: syntax error: missing ';' before '{'
+C:\Users\ayya_\OneDrive\Desktop\Sheet-5\Sheet-5\Q1.cpp(127,30): error C2447: '{': missing function header (old-style formal list?)
